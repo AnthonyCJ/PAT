@@ -1,4 +1,4 @@
-package PAT.Basic.Basic_1001;
+package PAT.basic.basic_1001;
 import java.util.Scanner;
 
 public class Basic_1001 {

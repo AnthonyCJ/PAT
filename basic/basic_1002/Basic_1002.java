@@ -1,4 +1,4 @@
-package PAT.Basic.Basic_1002;
+package PAT.basic.basic_1002;
 import java.util.Scanner;
 import java.lang.String;
 import java.util.Stack;
