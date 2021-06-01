@@ -35,9 +35,9 @@ public class Basic_1005 {
      * @param b 
      * @return bool 比较结果
      */
-    private boolean cmp(int a, int b) {
-        return a > b;
-    } 
+//    private boolean cmp(int a, int b) {
+//       return a > b;
+//    } 
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
